@@ -26,8 +26,6 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├ _Membuka grup_
 ├≽️ *.Closegc*
 ├ _Menutup grup_
-├≽️ *.antilink*
-├_Kick Yang Sharelink_
 ╰═══════════════
 
 ╭════•›「 Game 」
