@@ -1,2 +1,0 @@
-# bot-ku
-Hai
